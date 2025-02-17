@@ -1,0 +1,2 @@
+# MashriqGPT
+Poetry Generator
